@@ -1,6 +1,6 @@
 import unittest
 from datetime import datetime
-from get_current_time import time_format_check
+from time_check import time_format_check
 
 
 current_time_unformatted = datetime.now() # current date and time
